@@ -1,0 +1,25 @@
+{
+  "name": "com.contactpigeon.fbsdkconsumerplugin",
+  "version": "1.0.0",
+  "description": "Cordova Android SDK Contact Pigeon",
+  "cordova": {
+    "id": "com.contactpigeon.fbsdkconsumerplugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomatoset/cpsdkcordova.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "tomatoset",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomatoset/cpsdkcordova/issues"
+  },
+  "homepage": "https://github.com/tomatoset/cpsdkcordova#readme"
+}
