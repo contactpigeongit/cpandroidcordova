@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tomatoset/cpsdkcordova.git"
+    "url": "git+https://github.com/contactpigeongit/cpandroidcordova.git"
   },
   "keywords": [
     "ecosystem:cordova",
@@ -19,7 +19,7 @@
   "author": "tomatoset",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tomatoset/cpsdkcordova/issues"
+    "url": "https://github.com/contactpigeongit/cpandroidcordova/issues"
   },
-  "homepage": "https://github.com/tomatoset/cpsdkcordova#readme"
+  "homepage": "https://github.com/contactpigeongit/cpandroidcordova#readme"
 }
